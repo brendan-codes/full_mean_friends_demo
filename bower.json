@@ -1,0 +1,21 @@
+{
+  "name": "full_mean_demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Brendan Stanton <bmsenate@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-route": "^1.6.3"
+  }
+}
